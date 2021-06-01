@@ -14,7 +14,7 @@
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyegoMaas&&layout=compact&theme=dracula&langs_count=8)"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DyegoMaas&exclude_repo=blog,dyegomaas.github.io&layout=compact&theme=dracula&langs_count=8"
     />
 </a>
 </p>
