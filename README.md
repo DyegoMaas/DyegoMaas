@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-### Some stats & fun facts
+## Some stats & fun facts
 
 <p>
 <a href="https://github.com/DyegoMaas/github-readme-stats">
@@ -20,6 +20,11 @@
 </p>
   
 ⚡ Fun fact: I also write short fiction. You can find it in https://dyegomaas.com.br. (It's all in brazilian portuguese)
+
+## Recent blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **DyegoMaas/DyegoMaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
