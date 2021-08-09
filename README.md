@@ -21,7 +21,7 @@
   
 ⚡ Fun fact: I also write short fiction. You can find it in https://dyegomaas.com.br. (It's all in brazilian portuguese)
 
-## Recent blog posts
+## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Como adicionar Source Link num pacote NuGet](https://blog.dyegomaas.com.br/posts/artigo-como-adicionar-source-link-pacote-nuget/)
@@ -30,6 +30,8 @@
 - [Como criar um gerador de microserviços usando o Replicante](https://blog.dyegomaas.com.br/posts/artigo-criando-um-gerador-microservicos-com-replicante/)
 - [Uma estratégia para nivelar o conhecimento de um time em tempo recorde](https://blog.dyegomaas.com.br/posts/artigo-construindo-um-time-que-nao-tem-medo-de-aprender-e-ensinar/)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://blog.dyegomaas.com.br)
 
 <!--
 **DyegoMaas/DyegoMaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
