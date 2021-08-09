@@ -26,9 +26,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Como adicionar Source Link num pacote NuGet](https://blog.dyegomaas.com.br/posts/artigo-como-adicionar-source-link-pacote-nuget/)
 - [Como depurar pacotes NuGet com Source Link](https://blog.dyegomaas.com.br/posts/artigo-como-depurar-com-source-link/)
-- [Blogs](https://blog.dyegomaas.com.br/recommendations/blogs/)
-- [Livros](https://blog.dyegomaas.com.br/recommendations/books/)
-- [Podcasts](https://blog.dyegomaas.com.br/recommendations/podcasts/)
+- [Versionamento semântico simplificado com MinVer](https://blog.dyegomaas.com.br/posts/artigo-versionamento-semantico-com-minver/)
+- [Como criar um gerador de microserviços usando o Replicante](https://blog.dyegomaas.com.br/posts/artigo-criando-um-gerador-microservicos-com-replicante/)
+- [Uma estratégia para nivelar o conhecimento de um time em tempo recorde](https://blog.dyegomaas.com.br/posts/artigo-construindo-um-time-que-nao-tem-medo-de-aprender-e-ensinar/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
