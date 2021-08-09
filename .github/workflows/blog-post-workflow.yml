@@ -12,3 +12,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://blog.dyegomaas.com.br/posts/index.xml"
+          gh_token: "${{ secrets.GH_TOKEN }}"
