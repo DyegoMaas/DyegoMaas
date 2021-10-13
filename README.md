@@ -24,11 +24,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [O melhor e o pior tipo de testes para microserviços](https://blog.dyegomaas.com.br/posts/artigo-melhor-e-pior-tipos-teste-para-microservicos/)
 - [Como implementar test builders em C# com ForeverFactory](https://blog.dyegomaas.com.br/posts/artigo-test-builders-com-foreverfactory/)
 - [Como adicionar Source Link num pacote NuGet](https://blog.dyegomaas.com.br/posts/artigo-como-adicionar-source-link-pacote-nuget/)
 - [Como depurar pacotes NuGet com Source Link](https://blog.dyegomaas.com.br/posts/artigo-como-depurar-com-source-link/)
 - [Versionamento semântico simplificado com MinVer](https://blog.dyegomaas.com.br/posts/artigo-versionamento-semantico-com-minver/)
-- [Como criar um gerador de microserviços usando o Replicante](https://blog.dyegomaas.com.br/posts/artigo-criando-um-gerador-microservicos-com-replicante/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.dyegomaas.com.br)
