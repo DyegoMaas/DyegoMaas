@@ -24,11 +24,11 @@
 ## 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualizando centenas de repositórios usando a ferramenta Gource](https://blog.dyegomaas.com.br/posts/artigo-visualizando-centenas-projetos-com-gource/)
 - [A melhor forma de posicionar variáveis locais num método](https://blog.dyegomaas.com.br/posts/artigo-posicionamento-variaveis/)
 - [O melhor e o pior tipo de testes para microserviços](https://blog.dyegomaas.com.br/posts/artigo-melhor-e-pior-tipos-teste-para-microservicos/)
 - [Como implementar test builders em C# com ForeverFactory](https://blog.dyegomaas.com.br/posts/artigo-test-builders-com-foreverfactory/)
 - [Como adicionar Source Link num pacote NuGet](https://blog.dyegomaas.com.br/posts/artigo-como-adicionar-source-link-pacote-nuget/)
-- [Como depurar pacotes NuGet com Source Link](https://blog.dyegomaas.com.br/posts/artigo-como-depurar-com-source-link/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.dyegomaas.com.br)
