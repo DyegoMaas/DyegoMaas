@@ -1,6 +1,6 @@
-## Hi there! I'm [Dyego Maas](https://dyegomaas.com.br) 👋
+## Olá! Eu sou [Dyego Maas](https://dyegomaas.com.br)! 👋
 
-## Some stats & fun facts
+## Algumas estatísticas e curiosidades
 
 <p>
 <a href="https://github.com/DyegoMaas/github-readme-stats">
@@ -19,9 +19,9 @@
 </a>
 </p>
   
-⚡ Fun fact: I also write short fiction. You can find it in https://dyegomaas.com.br. (It's all in brazilian portuguese)
+⚡ Curiosidade: eu também escrevo ficção curta. Você pode encontrar meus contos em https://dyegomaas.com.br.
 
-## 📕 Latest Blog Posts
+## 📕 Últimos Posts no [Blog]((https://blog.dyegomaas.com.br))
 
 <!-- BLOG-POST-LIST:START -->
 - [Visualizando centenas de repositórios usando a ferramenta Gource](https://blog.dyegomaas.com.br/posts/artigo-visualizando-centenas-projetos-com-gource/)
@@ -31,7 +31,7 @@
 - [Como adicionar Source Link num pacote NuGet](https://blog.dyegomaas.com.br/posts/artigo-como-adicionar-source-link-pacote-nuget/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blog.dyegomaas.com.br)
+➡️ [mais posts...](https://blog.dyegomaas.com.br)
 
 <!--
 **DyegoMaas/DyegoMaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
