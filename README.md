@@ -1,4 +1,4 @@
-## Olá! Eu sou [Dyego Maas](https://dyegomaas.com.br)! 👋
+## Oi! Eu sou [Dyego Maas](https://dyegomaas.com.br)! 👋
 
 ## Algumas estatísticas e curiosidades
 
